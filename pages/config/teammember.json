@@ -1,0 +1,63 @@
+[
+    {
+        "img": "images/Teams/veeru.png",
+        "title": "Veeru",
+        "designation": "Founder, CEO, CFO, CPO",
+        "experince": "15 Years of Experience"
+    },
+    {
+        "img": "images/Teams/hanif.png",
+        "title": "Hanif",
+        "designation": "CTO and Development Head",
+        "experince": "18 Years of Experience"
+    },
+    {
+        "img": "images/Teams/yash.png",
+        "title": "Yash",
+        "designation": "CMO, CCO",
+        "experince": "20 Years of Experience"
+    },
+   
+    {
+        "img": "images/Teams/anjali.png",
+        "title": "Anjali",
+        "designation": "CCO, Chief HR/Admin",
+        "experince": "11 Years of Experience"
+    },
+    {
+        "img": "images/Teams/deepa.png",
+        "title": "Deepa",
+        "designation": "Lead",
+        "experince": "20 Years of Experience"
+    },
+    {
+        "img": "images/Teams/lakshmi.png",
+        "title": "Lakshmi",
+        "designation": "Developer",
+        "experince": "8 Years of Experience"
+    },
+    {
+        "img": "images/Teams/bhavani.png",
+        "title": "Bhavani",
+        "designation": "Chief of Staff",
+        "experince": "2 Years of Experience"
+    },
+    {
+        "img": "images/Teams/anuradha.png",
+        "title": "Anuradha",
+        "designation": "Chief of Staff",
+        "experince": "2 Years of Experience"
+    },
+    {
+        "img": "images/Teams/savatri.png",
+        "title": "Savatri",
+        "designation": "Chief of Staff",
+        "experince": "2 Years of Experience"
+    },
+    {
+        "img": "images/Teams/sneha.png",
+        "title": "Sneha",
+        "designation": "Chief of Staff",
+        "experince": "2 Years of Experience"
+    }
+]

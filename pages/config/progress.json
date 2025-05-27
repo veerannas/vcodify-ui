@@ -1,0 +1,22 @@
+[ {
+    "img": "images/team.svg",
+    "text": "Team"
+},
+
+{
+    "img": "images/growth.svg",
+    "text": "Product"
+},
+{
+    "img": "images/growth.svg",
+    "text": "Investor"
+},
+{
+    "img": "images/opportunity.svg",
+    "text": "Opportunity"
+},
+{
+    "img": "images/growth.svg",
+    "text": "Growth"
+}
+]

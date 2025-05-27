@@ -1,0 +1,202 @@
+{
+    "Highlights": [
+        {
+            "img": "images/barchart.png",
+            "text": "Innovative Platform",
+            "description": "An inventive design backing 'All for one and one for All' approach "
+        },
+        {
+            "img": "images/piechart.png",
+            "text": "Huge Market Coverage",
+            "description": "We will cover the huge business market"
+        },
+        {
+            "img": "images/cube.png",
+            "text": "Expansionist Perspective ",
+            "description": "Aiming to include any service for both business and customer"
+        },
+        {
+            "img": "images/atom.png",
+            "text": "Peace Of Mind",
+            "description": "Your security is our top-notch priority and we will ensure this"
+        }
+    ],
+    "AI": [
+        {
+            "img": "images/python.svg",
+            "text": "Python"
+        },
+        {
+            "img": "images/gensim.svg",
+            "text": "GENSIM"
+        },
+        {
+            "img": "images/openAI.svg",
+            "text": "OpenAI"
+        },
+        {
+            "img": "images/scipy.svg",
+            "text": "SciPy"
+        }
+    ],
+    "FrontEnd": [
+        {
+            "img": "images/angular.svg",
+            "text": "Angular"
+        },
+        {
+            "img": "images/reactjs.svg",
+            "text": "ReactJS"
+        },
+        {
+            "img": "images/javascript.svg",
+            "text": "Javascript"
+        },
+        {
+            "img": "images/nextjs.svg",
+            "text": "NextJS"
+        },
+        {
+            "img": "images/vuejs.svg",
+            "text": "VueJS"
+        },
+        {
+            "img": "images/typescript.svg",
+            "text": "Typescript"
+        },
+        {
+            "img": "images/jquery.svg",
+            "text": "jQuery"
+        },
+        {
+            "img": "images/bootstrap.svg",
+            "text": "Bootstrap"
+        }
+    ],
+    "Backend": [
+        {
+            "img": "images/java.svg",
+            "text": "Java"
+        },
+        {
+            "img": "images/php.svg",
+            "text": "PHP"
+        },
+        {
+            "img": "images/nodejs.svg",
+            "text": "NodeJS"
+        },
+        {
+            "img": "images/python.svg",
+            "text": "Python"
+        }
+    ],
+    "Frameworks": [
+        {
+            "img": "images/springboot.svg",
+            "text": "Spring Boot"
+        },
+        {
+            "img": "images/hibernate.svg",
+            "text": "PHP"
+        },
+        {
+            "img": "images/laravel.svg",
+            "text": "Laravel"
+        },
+        {
+            "img": "images/nextjs.svg",
+            "text": "NextJS"
+        }
+    ],
+    "Mobile": [
+        {
+            "img": "images/ios.svg",
+            "text": "IOS"
+        },
+        {
+            "img": "images/android.svg",
+            "text": "Android"
+        },
+        {
+            "img": "images/swift.svg",
+            "text": "Swift"
+        },
+        {
+            "img": "images/kotlin.svg",
+            "text": "Kotlin"
+        }
+    ],
+    "Platforms": [
+        {
+            "img": "images/powerbi.svg",
+            "text": "PowerBI"
+        },
+        {
+            "img": "images/tableau.svg",
+            "text": "Tableau"
+        },
+        {
+            "img": "images/salesforce.svg",
+            "text": "Salesforce"
+        },
+        {
+            "img": "images/serviceNow.svg",
+            "text": "ServiceNow"
+        }
+    ],
+    "CMS": [
+        {
+            "img": "images/magento.svg",
+            "text": "Magento"
+        },
+        {
+            "img": "images/shopify.svg",
+            "text": "Shopify"
+        },
+        {
+            "img": "images/wordPress.svg",
+            "text": "WordPress"
+        },
+        {
+            "img": "images/drupal.svg",
+            "text": "Drupal"
+        }
+    ],
+    "CLOUD": [
+        {
+            "img": "images/aws.svg",
+            "text": "AWS"
+        },
+        {
+            "img": "images/azure.svg",
+            "text": "Azure"
+        },
+        {
+            "img": "images/googleCloud.svg",
+            "text": "Google Cloud"
+        },
+        {
+            "img": "images/oracle.svg",
+            "text": "Oracle"
+        }
+    ],
+    "Devops": [
+        {
+            "img": "images/jenkins.svg",
+            "text": "Jenkins"
+        },
+        {
+            "img": "images/maven.svg",
+            "text": "Maven"
+        },
+        {
+            "img": "images/kubernetes.svg",
+            "text": "Kubernetes"
+        },
+        {
+            "img": "images/docker.svg",
+            "text": "Docker"
+        }
+    ]
+}

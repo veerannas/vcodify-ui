@@ -1,0 +1,214 @@
+.about-image-text {
+    margin-bottom: 2%;
+    left: 50px;
+    font-weight: 500;
+    text-align: left;
+}
+.section-image-name {
+    margin-bottom: 10px;
+ 
+    font-weight: 500;
+    text-align: center;
+}
+.section2-image-name {
+    padding-top: 3%;
+    margin-bottom: 10px;
+ 
+    font-weight: 500;
+    text-align: center;
+}
+.aboutsection5-imagesize {
+    width: 100%;
+ 
+}
+.about-text {
+    font-size: 15px;
+}
+ 
+.aboutimage {
+    padding-right: 2%;
+    padding-left: 0%;
+}
+.aboutimage2 {
+    padding-right: 0%;
+    padding-left: 5%;
+    padding-top: 3%;
+}
+.aboutimage3 {
+    padding-top: 5%;
+    width: 100%;
+ 
+}
+.slid1 {
+    text-align: center;
+    padding-left: 20px;
+    height: 130px;
+    margin-top: 10px;
+}
+ 
+.slid3 {
+    padding-bottom: 3%;
+}
+ 
+.letter1 {
+    margin: 0;
+    position: relative;
+    top: 80px;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+ 
+    border-top-color: black;
+}
+ 
+ 
+.slick-prev:before,
+.slick-next:before {
+    color: black !important;
+    margin-left: -30%;
+}
+ 
+.CircularProgressbar-path {
+    stroke-width: 4% !important;
+    stroke-linecap: butt;
+    transition-duration: 0.5 !important;
+}
+ 
+.CircularProgressbar-trail {
+    stroke-width: 4% !important;
+}
+.CircularProgressbar-text {
+    fill: royalblue !important;
+}
+.counter-text {
+    text-align: left;
+    padding-left: 35%;
+}
+.counter-text1 {
+    text-align: left;
+    padding-left: 42%;
+}
+.counter-text2 {
+    text-align: left;
+    padding-left: 38%;
+}
+.card-section5-button {
+    background-color: #02827f !important;
+    color: #fff !important;
+    border-radius: 5px !important;
+    font-weight: 500 !important;
+    border: 1px solid #02827f !important;
+    font-size: 13px !important;
+}
+.card-section5-button:hover {
+    background-color: #02827f !important;
+    color: #ffff !important;
+    border-radius: 5px !important;
+    font-weight: 500 !important;
+    border: 1px solid #02827f !important;
+    font-size: 13px !important;
+}
+.aboutcard {
+    height: 100% !important;
+    padding-top: 10%;
+}
+.vision-space {
+    padding-left: 2%;
+}
+.platform-padding {
+    padding-bottom: 15%;
+}
+.about-title {
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+ 
+.aboutsection3-tabletview {
+    visibility: hidden;
+    resize: vertical;
+    height: 0px !important;
+}
+.about-text-designation {
+    font-size: 13px !important;
+    font-weight: 400;
+}
+.aboutimage3 {
+    padding-bottom: 5% !important;
+    width: 100% !important;
+}
+@media (min-width: 400px) and (max-width: 767px) {
+    .aboutslider2{
+        padding-top: 20px !important;
+    }
+}
+ 
+@media (min-width: 320px) and (max-width: 480px) {
+}
+.text-align-left {
+    text-align: left;
+}
+ 
+@media only screen and (max-width: 600px) {
+    .about-text {
+        font-size: 18px;
+    }
+    .section4-image-padding {
+        width: 100% !important;
+    }
+    .aboutsection5-slide {
+        width: 100% !important;
+    }
+    .aboutslider2 {
+        padding-top: 5%;
+        margin-bottom: 5%;
+    }
+    .aboutimage3 {
+        padding-bottom: 5% !important;
+        width: 100% !important;
+    }
+    .product-posterimage-size {
+        margin-top: -24% !important;
+        margin-bottom: -5% !important;
+    }
+ 
+    .slid3 {
+        padding-bottom: 10%;
+    }
+}
+ 
+@media (min-width: 600px) and (max-width: 1024px) {
+    .about-text {
+        font-size: 18px !important;
+    }
+    .about-text-designation {
+        font-size: 18px !important;
+    }
+    .slid3 {
+        padding-bottom: 5% !important;
+    }
+ 
+    .aboutsection3-tablet {
+        visibility: hidden;
+        resize: vertical;
+        height: 0px;
+    }
+    .aboutsection3-tabletview {
+        visibility: visible;
+        resize: vertical;
+        height: 100% !important;
+    }
+}
+ 
+.slick-next:before,
+.slick-prev:before {
+    font-size: 31px !important;
+}
+ 
+.circular-padding {
+    padding: 18%;
+}
+ 
+.about-us-header {
+    text-align: center;
+    margin-top: 4em;
+}
+ 

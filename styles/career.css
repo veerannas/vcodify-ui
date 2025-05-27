@@ -1,0 +1,549 @@
+.carrier-images {
+    box-shadow: 0px 2px 2px 1px rgb(140, 140, 141);
+    background: white;
+    width: 27%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-bottom: 5%;
+    border-radius: 50px;
+    border-color: rgb(82, 81, 81);
+    border-style: solid;
+    border-width: 1px;
+}
+ 
+.card1-backgroud-gradient:hover {
+    box-shadow: 7px 7px 7px 7px #c8c8c9;
+    background: white;
+}
+ 
+.career-text {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    text-align: justify;
+}
+ 
+.career-text-size {
+    font-size: 14px;
+    color: #01345b !important;
+}
+ 
+.career-section1-image {
+    width: 100%;
+    padding-top: 4%;
+    margin-top: 10px;
+    /* padding-bottom: 4%; */
+}
+ 
+.section-image-center {
+    text-align: center;
+}
+ 
+.section-image-text {
+    /* font-weight: 500; */
+    padding-bottom: 6%;
+}
+ 
+.search-box-shadow {
+    padding: 1%;
+    width: 100%;
+    height: 100%;
+    border: 1%;
+}
+ 
+.careerbox2 {
+    width: 100% !important;
+    border-radius: 5px;
+    box-shadow: 0px 2px 2px 3px #cccecc;
+    background-color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 4%;
+}
+ 
+.card-size-section5 {
+    padding-left: 10px;
+    width: 100%;
+    height: 100%;
+}
+ 
+.card-border {
+    border-radius: 2.25rem !important;
+}
+ 
+.text-muted-size {
+    font-size: 16px !important;
+    color: #01345b;
+}
+ 
+.job-muted-size {
+    font-size: 16px !important;
+    color: #01345b !important;
+}
+ 
+.job-from-size {
+    font-size: 16px !important;
+    color: #01345b !important;
+}
+ 
+.text-muted-height {
+    height: 20px;
+}
+ 
+.card-button {
+    margin: 0px;
+    display: inline;
+}
+ 
+.card-subtitle-button {
+    background-color: #ff784f !important;
+    box-shadow: #c8c8c9;
+    color: #fff !important;
+    border-radius: 5px !important;
+    font-weight: 500 !important;
+    border-color: #c8c8c7 !important;
+    font-size: 14px !important;
+}
+ 
+.card-subtitle-button:hover {
+    background-color: #ff784f !important;
+    color: #ffff !important;
+    border-radius: 5px !important;
+    font-weight: 500 !important;
+    border: 1px solid hsl(180, 2%, 65%) !important;
+    font-size: 14px !important;
+}
+ 
+.job-subtitle-button {
+    background-color: #fff !important;
+    color: #000 !important;
+    border-radius: 25px !important;
+    font-weight: 500 !important;
+    border: 1px solid #ff784f !important;
+    float: right;
+    margin-right: 10%;
+    margin-bottom: 7%;
+    font-size: 16px !important;
+}
+ 
+.job-subtitle-button:hover {
+    background-color: #ff784f !important;
+    color: #ffff !important;
+    border-radius: 25px !important;
+    font-weight: 500 !important;
+    border: 1px solid #ff784f !important;
+    font-size: 16px !important;
+    margin-left: 5%;
+}
+ 
+.remote-job-size {
+    font-size: 16px !important;
+    padding-left: 23px;
+}
+ 
+.job-button {
+    float: right;
+    margin-bottom: 20px;
+    margin-right: 30px;
+}
+ 
+.section4-button {
+    float: right;
+    margin-bottom: 5px;
+    margin-right: 10px;
+}
+ 
+.job-slider {
+    height: 330px !important;
+    margin-bottom: 5%;
+    margin-top: 10%;
+}
+ 
+.jobselect {
+    border-radius: 25% !important;
+}
+ 
+.card1-backgroud-gradient {
+    background: white;
+    box-shadow: 5px 5px 5px 5px #c8c8c8;
+}
+ 
+.card-border-top-space {
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+ 
+.text-muted-padding {
+    padding-top: 2% !important;
+}
+ 
+.card-header-color {
+    color: #ff784f;
+    font-size: 16px !important;
+}
+ 
+.career-button-backgroud {
+    background-color: #ff784f !important;
+    border: 1px !important;
+    font-weight: 500 !important;
+    border-radius: 5px !important;
+}
+ 
+.career-button-backgroud2 {
+    background-color: #ff784f !important;
+    border: 1px !important;
+    font-weight: 500 !important;
+    border-radius: 5px !important;
+    width: 90px !important;
+    margin-left: 10px;
+}
+ 
+.search-clear-buton {
+    float: right;
+}
+ 
+.careerdiv {
+    height: 100%;
+    padding-bottom: 1%;
+}
+ 
+.job-slide-padding {
+    padding-bottom: 2%;
+}
+ 
+.careercardslider {
+    padding-bottom: 3%;
+}
+ 
+.con1 {
+    width: 100%;
+    height: 100%;
+}
+ 
+.experience-padding {
+    margin-top: 1%;
+}
+ 
+.career-section5-space {
+    padding-top: 6%;
+}
+ 
+.career-section5-space2 {
+    padding-top: 6%;
+}
+ 
+.card-border {
+    border-radius: 5px !important;
+}
+ 
+.title-size {
+    color: #ff784f;
+}
+ 
+@media (min-width: 1025px) and (max-width: 1200px) {
+    .job-slider {
+        height: 330px !important;
+        width: 100% !important;
+        margin-top: 10%;
+    }
+}
+ 
+@media (min-width: 992px) and (max-width: 1024px) {
+    .job-from-size {
+        font-size: 14px !important;
+    }
+    .job-muted-size {
+        font-size: 14px !important;
+    }
+}
+ 
+@media (min-width: 800px) and (max-width: 992px) {
+    .career-button-backgroud {
+        width: 70px !important;
+        font-size: small !important;
+        padding-left: 5% !important;
+        padding-right: 5% !important;
+        margin-top: 2% !important;
+    }
+    .career-button-backgroud2 {
+        font-size: small !important;
+        width: 55px !important;
+        padding-right: 6% !important;
+        margin-top: 2% !important;
+    }
+    .job-slider {
+        height: 300px !important;
+    }
+    .job-from-size {
+        font-size: 15px !important;
+    }
+    .job-muted-size {
+        font-size: 15px !important;
+    }
+}
+ 
+@media (min-width: 768px) and (max-width: 800px) {
+    .career-button-backgroud {
+        width: 70px !important;
+        font-size: small !important;
+        padding-left: 5% !important;
+        padding-right: 5% !important;
+        margin-top: 2% !important;
+    }
+    .career-button-backgroud2 {
+        font-size: small !important;
+        width: 55px !important;
+        padding-right: 6% !important;
+        margin-top: 2% !important;
+    }
+    .job-slider {
+        height: 330px !important;
+    }
+    .job-from-size {
+        font-size: 14px !important;
+    }
+    .job-muted-size {
+        font-size: 14px !important;
+    }
+}
+ 
+@media (min-width: 740px) and (max-width: 767px) {
+    .careerbox2 {
+        padding-bottom: 5% !important;
+        padding-left: 5% !important;
+        padding-right: 5% !important;
+        padding-top: 5% !important;
+    }
+    .search-clear-buton {
+        text-align: center !important;
+    }
+    .career-button-backgroud {
+        margin-top: 5% !important;
+    }
+    .career-button-backgroud2 {
+        margin-top: 5% !important;
+    }
+    .job-slider {
+        height: 330px !important;
+    }
+    .job-from-size {
+        font-size: 14px !important;
+    }
+    .job-muted-size {
+        font-size: 14px !important;
+    }
+}
+ 
+@media (min-width: 601px) and (max-width: 740px) {
+    .careerbox2 {
+        padding-bottom: 5% !important;
+        padding-left: 5% !important;
+        padding-right: 5% !important;
+        padding-top: 5% !important;
+    }
+    .career-button-backgroud {
+        margin-top: 5% !important;
+    }
+    .career-button-backgroud2 {
+        margin-top: 5% !important;
+    }
+    .job-from-size {
+        font-size: 14px !important;
+    }
+    .job-muted-size {
+        font-size: 14px !important;
+    }
+    .searchboxbutton {
+        text-align: center !important;
+        padding-top: 5% !important;
+    }
+}
+ 
+@media (min-width: 400px) and (max-width: 600px) {
+    .careerbox2 {
+        padding-bottom: 5% !important;
+        padding-left: 5% !important;
+        padding-right: 5% !important;
+        padding-top: 5% !important;
+    }
+    .career-button-backgroud {
+        margin-top: 5% !important;
+        font-size: small !important;
+    }
+    .career-button-backgroud2 {
+        margin-top: 5% !important;
+        font-size: small !important;
+    }
+    .job-slider {
+        height: 300px !important;
+        width: 100% !important;
+        margin-top: 10%;
+    }
+    .card-subtitle-button {
+        margin-left: 0% !important;
+    }
+    .card-subtitle-button-margin {
+        margin-left: 40% !important;
+    }
+}
+ 
+@media (min-width: 360px) and (max-width: 400px) {
+    .careerbox2 {
+        padding-bottom: 5% !important;
+        padding-left: 5% !important;
+        padding-right: 5% !important;
+        padding-top: 5% !important;
+    }
+    .career-button-backgroud {
+        margin-top: 5% !important;
+        font-size: small !important;
+    }
+    .career-button-backgroud2 {
+        margin-top: 5% !important;
+        font-size: small !important;
+    }
+    .job-slider {
+        height: 300px !important;
+        width: 100% !important;
+        margin-top: 10%;
+    }
+    .job-muted-size {
+        font-size: 14px !important;
+    }
+    .card-subtitle-button {
+        margin-left: 0% !important;
+    }
+    .card-subtitle-button-margin {
+        margin-left: 40% !important;
+    }
+}
+ 
+@media (min-width: 320px) and (max-width: 359px) {
+    .careerbox2 {
+        padding-bottom: 5% !important;
+        padding-left: 5% !important;
+        padding-right: 5% !important;
+        padding-top: 5% !important;
+    }
+    .career-button-backgroud {
+        width: 70px !important;
+        font-size: small !important;
+        padding-left: 3% !important;
+        margin-top: 5% !important;
+    }
+    .career-button-backgroud2 {
+        font-size: small !important;
+        width: 55px !important;
+        padding-right: 6% !important;
+        margin-top: 5% !important;
+    }
+    .section4-button {
+        margin-right: 10px !important;
+    }
+    .career-text-size {
+        font-size: 13px !important;
+    }
+    .card-header-color {
+        font-size: 15px !important;
+    }
+    .job-slider {
+        height: 310px !important;
+        width: 100% !important;
+        margin-top: 10%;
+    }
+    .text-muted-size {
+        font-size: 13px !important;
+    }
+    .job-muted-size {
+        font-size: 13px !important;
+    }
+    .remote-job-size {
+        font-size: 13px !important;
+    }
+    .searchboxbutton {
+        text-align: center !important;
+    }
+}
+ 
+@media (min-width: 200px) and (max-width: 320px) {
+    .careerbox2 {
+        padding-bottom: 5% !important;
+        padding-left: 5% !important;
+        padding-right: 5% !important;
+        padding-top: 5% !important;
+    }
+    .career-button-backgroud {
+        width: 70px !important;
+        font-size: small !important;
+        padding-left: 3% !important;
+        margin-top: 5% !important;
+    }
+    .career-button-backgroud2 {
+        font-size: small !important;
+        width: 55px !important;
+        padding-right: 6% !important;
+        margin-top: 5% !important;
+    }
+    .job-slider {
+        height: 300px !important;
+        width: 100% !important;
+        margin-top: 10%;
+    }
+    .remote-job-size {
+        font-size: 12px !important;
+        padding-left: 20px !important;
+    }
+    .job-button {
+        padding-right: 10px !important;
+        padding-left: 10px !important;
+        margin-right: 10px !important;
+    }
+    .job-muted-size {
+        font-size: 12px !important;
+    }
+    .section4-button {
+        margin-right: 10px !important;
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+    .career-text-size {
+        font-size: 13px !important;
+    }
+    .card-subtitle-button {
+        font-size: 12px !important;
+    }
+    .searchboxbutton {
+        text-align: center !important;
+    }
+}
+ 
+@media (max-width: 766px) {
+    .experience-padding {
+        padding-top: 5% !important;
+    }
+    .careerlocation {
+        padding-top: 3% !important;
+    }
+    .careercategory {
+        padding-top: 3% !important;
+    }
+    .search-clear-buton {
+        text-align: center !important;
+    }
+    .career-section5-space {
+        padding-top: 15px !important;
+    }
+    .career-section5-space2 {
+        padding-top: 15px !important;
+    }
+}
+ 
+@media (min-width: 768px) and (max-width: 1200px) {
+    .careerbox2 {
+        padding-left: 2% !important;
+    }
+}
