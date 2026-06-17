@@ -1,6 +1,6 @@
-# VCodify UI — Developer Portfolio & Services Website
+# VCodify UI 
 
-VCodify UI is a Next.js application serving as the public-facing website for VCodify — a software development consultancy and services brand. It showcases development capabilities, service offerings, and project portfolios through a modern, responsive design with optimized media delivery. The site features marketing pages, service descriptions, and contact workflows designed to convert visitors into clients.
+VCodify UI is a Next.js application. It showcases development capabilities, service offerings, and project portfolios through a modern, responsive design with optimized media delivery. 
 
 Built with Next.js for server-side rendering and optimal SEO performance, the application includes video content delivery, image optimization via Next.js image pipeline, and responsive layouts across all device sizes. The build includes webpack caching for fast iterative development.
 
