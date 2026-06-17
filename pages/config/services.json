@@ -1,0 +1,46 @@
+[
+	{
+		"title": "SAP Consulting",
+		"jobType": "Part time/Full time/Intern",
+		"experiance": "1-8 Years of Experience",
+		"from": "Remote Job",
+		"technology": "Technology",
+		"description": " Experience in software/application development using Java stack Hands on experience and working proficiency in developmental tool sets.",
+		"category": "IT",
+		"job": "Java Developer",
+        "img":"images/sap.webp"
+	},
+	{
+		"title": "Digital Transformation",
+		"jobType": "Part time/Full time/Intern",
+		"experiance": "0-5 Years of Experience ",
+		"from": "Remote Job",
+		"technology": "Technology",
+		"description": "Passionate in making new designs and optimising existing design And work in converting wireframes into intuitive visual design experiences.",
+		"category": "Sales",
+		"job": "UX Designer",
+		"img":"images/digital-transformation.webp"
+	},
+	{
+		"title": "Staffing Services ",
+		"jobType": "Part time/Full time/Intern",
+		"experiance": "0-5 Years of Experience",
+		"from": "Remote Job",
+		"technology": "Technology",
+		"description": " Understanding of the patterns and practices that revolve around the Android & iOS platform.Knowledge of app deployment on Google Play and Apple App store.",
+		"category": "IT",
+		"job": "Mobile Developer",
+		"img":"images/staffing-services.webp"
+	},
+	{
+		"title": "Product",
+		"jobType": "Part time/Full time/Intern ",
+		"experiance": "0-5 Years of Experience",
+		"from": "Remote Job",
+		"technology": "Technology",
+		"description": "Experience in creating innovative offline and digital marketing strategies Experience in business growth, sales & marketing, with accountability for revenue. ",
+		"category": "Marketing",
+		"job": "Marketing",
+		"img":"images/solution-product.webp"
+	}
+]

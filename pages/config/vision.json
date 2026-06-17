@@ -1,0 +1,18 @@
+[{
+    "start": 0,
+    "end": 18000,
+    "duration": 10,
+    "description":"Business registration"
+},
+{
+    "start": 0,
+    "end": 88,
+    "duration": 10,
+    "description":"Market coverage"
+},
+{
+    "start": 0,
+    "end": 350000,
+    "duration": 10,
+    "description":"Active user account"
+}]

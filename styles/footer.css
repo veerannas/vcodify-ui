@@ -1,0 +1,228 @@
+/* Footer Layout */
+.footerpadding {
+  margin-top: 2%;
+}
+
+.footerbottom {
+  margin-bottom: 2%;
+}
+
+/* Text Styles */
+.text-size {
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.underlinemail-hover {
+  color: #ff784f !important;
+}
+
+/* Social Icons Container */
+.social-icons-container {
+  display: flex;
+  gap: 10px;
+  margin-left: 5%;
+}
+
+/* Base Icon Styles */
+.icon-base {
+  border: 1px solid white;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+/* Specific Icon Styles */
+.facebook-icon {
+  composes: icon-base;
+  background-color: rgba(46, 88, 174, 0.7);
+}
+
+.facebook-icon:hover {
+  background-color: #2c4882;
+  transform: scale(1.1);
+}
+
+.instagram-icon {
+  composes: icon-base;
+  background-color: rgba(205, 72, 107, 0.7);
+}
+
+.instagram-icon:hover {
+  background-color: #CD486B;
+  transform: scale(1.1);
+}
+
+.linkedin-icon {
+  composes: icon-base;
+  background-color: rgba(0, 119, 181, 0.7);
+}
+
+.linkedin-icon:hover {
+  background-color: #0077B5;
+  transform: scale(1.1);
+}
+
+.tiktok-icon {
+  composes: icon-base;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.tiktok-icon:hover {
+  background-color: white;
+  color: black;
+  transform: scale(1.1);
+}
+
+/* Contact Icons */
+.contact-icon {
+  border: 1px solid white;
+  border-radius: 25%;
+  width: 25px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  color: #3a3636;
+  transition: all 0.3s ease;
+}
+
+.phone-icon {
+  composes: contact-icon;
+  margin-left: 3%;
+}
+
+.phone-icon:hover {
+  background-color: #ff784f;
+  color: white;
+  transform: scale(1.2);
+}
+
+.email-icon {
+  composes: contact-icon;
+  margin-left: 2%;
+}
+
+.email-icon:hover {
+  background-color: #ff784f;
+  color: white;
+  transform: scale(1.2);
+}
+
+/* Text Colors */
+.facebooktextcolor {
+  color: #4267b2;
+  font-weight: 600;
+}
+
+.instagramtextcolor {
+  color: #cd486b;
+  font-weight: 600;
+}
+
+.tiktoktextcolor {
+  font-weight: 600;
+}
+
+/* Layout Adjustments */
+.term-of-distance {
+  padding-left: 5%;
+}
+
+.icon-margin-top {
+  margin-top: 3%;
+}
+
+.vertical-text-align {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 93%;
+}
+
+/* Utility Classes */
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.icon-span-color {
+  color: #ffff !important;
+  text-decoration: none !important;
+}
+
+/* Responsive Styles */
+@media (max-width: 992px) {
+  .footerpaddingbottom {
+    margin-bottom: 6% !important;
+  }
+  
+  .footerpadding {
+    margin-top: 10%;
+  }
+  
+  p span {
+    display: block;
+  }
+  
+  .social-icons-container {
+    margin-left: 0;
+    justify-content: center;
+  }
+  
+  .phone-icon,
+  .email-icon {
+    margin-left: 0;
+    margin-top: 8%;
+  }
+}
+
+@media (min-width: 500px) and (max-width: 767px) {
+  .socialicon {
+    float: right !important;
+    margin-right: 30% !important;
+  }
+  
+  .icon-margin-top {
+    margin-top: -8%;
+  }
+}
+
+@media (min-width: 350px) and (max-width: 499px) {
+  .socialicon {
+    float: right !important;
+    margin-right: 20% !important;
+  }
+  
+  .icon-margin-top {
+    margin-top: -8%;
+  }
+}
+
+@media (min-width: 200px) and (max-width: 349px) {
+  .footerfontsize {
+    font-size: 14px !important;
+  }
+  
+  .contact-icon {
+    width: 20px !important;
+    height: 20px !important;
+  }
+  
+  .socialicon {
+    float: right !important;
+    margin-right: 10% !important;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1070px) {
+  .footerpadding {
+    font-size: 10px !important;
+  }
+}

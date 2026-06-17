@@ -1,0 +1,351 @@
+.home-section1-style {
+    font-size: 11px;
+}
+
+.home-section1-text1 {
+    margin-top: 2%;
+    font-weight: 700;
+    font-size: 23px;
+    color: #9bb3bc;
+}
+
+.section1image {
+    width: 30% !important;
+    margin-top: 50%;
+}
+
+.image-width {
+    padding-bottom: 3% !important;
+}
+
+.section1size {
+    height: 100%;
+}
+
+.home-text {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    text-align: justify;
+}
+
+.section-counter {
+    font-weight: 700 !important;
+    font-size: 2rem !important;
+}
+
+.home-section1-background-color {
+    background: linear-gradient(to bottom, #ffffff 0%, #e5eaee 70%);
+}
+
+.home-section2-background-color {
+    background: linear-gradient(to bottom, #ffffff 0%, #fff5f3 70%);
+}
+
+.home-section3-background-color {
+    background: linear-gradient(to bottom, #ffffff 0%, #cbebf8 70%);
+}
+
+.section-subheader {
+    text-align: center;
+    margin-top: -1%;
+}
+
+.underlinemail {
+    text-decoration: underline !important;
+    color: white !important;
+    text-underline-position: under;
+    text-decoration-color: #695c5ca8 !important;
+}
+
+.underlinemail:hover {
+    font-weight: 600;
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+    z-index: 2;
+}
+
+.contactcall {
+    padding-top: 10%;
+}
+
+.contactsubmitbutton {
+    background-color: #fff !important;
+    border-radius: 5px !important;
+    font-weight: 500 !important;
+    border: 1px solid #ff784f !important;
+    font-size: 13px !important;
+}
+
+@media only screen and (max-width: 600px) {
+    .home-section1-text1 {
+        margin-top: 2%;
+        font-weight: 700;
+        font-size: 18px;
+        color: #ff784f;
+    }
+    .section1image {
+        width: 10% !important;
+        margin-top: 20%;
+    }
+}
+
+.sortable {
+    cursor: pointer;
+}
+
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+    /* CSS */
+    .image-width {
+        width: 14% !important;
+    }
+}
+
+
+/* 
+	##Device = Laptops, Desktops
+	##Screen = B/w 1025px to 1280px
+  */
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+    .home-image {
+        width: 153%;
+        margin-left: -6%;
+        resize: vertical;
+        height: 230px;
+    }
+    /* CSS */
+    .image-width {
+        width: 14% !important;
+    }
+}
+
+
+/* 8
+	##Device = Tablets, Ipads (portrait)
+	##Screen = B/w 768px to 1024px
+  */
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .home-image {
+        width: 147%;
+        margin-left: -6%;
+        resize: vertical;
+        height: 230px;
+    }
+    .image-width {
+        width: 25% !important;
+    }
+    /* CSS */
+}
+
+
+/* 
+	##Device = Tablets, Ipads (landscape)
+	##Screen = B/w 768px to 1024px
+  */
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    .home-text {
+        margin: 0;
+        position: relative;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+        text-align: justify;
+    }
+    /* CSS */
+    .home-image {
+        width: 153%;
+        margin-left: -6%;
+        resize: vertical;
+        height: 230px;
+    }
+    .image-width {
+        width: 25% !important;
+    }
+}
+
+
+/* 
+	##Device = Low Resolution Tablets, Mobiles (Landscape)
+	##Screen = B/w 481px to 750px
+  */
+
+@media (min-width: 481px) and (max-width: 750px) {
+    .contactcall {
+        padding-top: 0% !important;
+    }
+    .home-text {
+        margin: 0;
+        position: relative;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+        text-align: justify;
+    }
+    /* CSS */
+    .home-image {
+        width: 120%;
+        margin-left: -6%;
+        resize: vertical;
+        height: 230px;
+    }
+    .image-width {
+        width: 25% !important;
+    }
+    .card-padding-top {
+        padding-top: 5%;
+    }
+}
+
+
+/* 
+	##Device = Most of the Smartphones Mobiles (Portrait)
+	##Screen = B/w 320px to 479px
+  */
+
+@media (min-width: 320px) and (max-width: 480px) {
+    /* CSS */
+    .navbar-img-responsive {
+        width: 200px;
+    }
+    .contactcall {
+        padding-top: 0% !important;
+    }
+    .home-text {
+        margin: 0;
+        position: relative;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+        text-align: justify;
+    }
+    .home-image {
+        width: 120%;
+        margin-left: -6%;
+        resize: vertical;
+        height: 230px;
+    }
+    .navlink-button {
+        margin-top: 4%;
+        margin-left: -6%;
+    }
+    /* .h4,
+	h4 {
+		font-size: 1.3rem;
+	} */
+    .image-width {
+        width: 25% !important;
+    }
+    .card-padding-top {
+        padding-top: 5%;
+    }
+    .section1size {
+        height: 100%;
+        padding-bottom: 2%;
+    }
+}
+
+@media (max-width: 320px) {
+    /* CSS */
+    .navbar-img-responsive {
+        width: 175px;
+    }
+}
+
+.color:hover {
+    text-decoration: none;
+}
+
+.goal-text {
+    font-weight: 500;
+}
+
+.color-email:hover {
+    color: #ff784f;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.color-email {
+    color: #2c2c2c;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+.spacecontactindia {
+    margin-top: 5%;
+}
+
+.contactus:hover {
+    background: linear-gradient(to bottom, #ffffff 0%, #ebf5ff 70%);
+}
+
+.section-counter {
+    font-weight: 500 !important;
+    font-size: 1.5rem !important;
+}
+
+.product-top {
+    padding-top: 5%;
+}
+
+.color-red{
+    color: #ff784f; 
+}
+
+.services-image-width {
+    height: 10em;
+    width: 18em;
+    margin-top: 2em;
+}
+
+.learn-more-btn {
+    text-align: center;
+}
+
+.home-banner {
+    text-align: center;
+    padding: 2em 0em;
+    background: white;
+    color: black;
+    margin: 20px 0px;
+    border: 2px solid #ff784f;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px #c8c8c8;
+}
+
+.home-banner:hover {
+    text-align: center;
+    padding: 2em 0em;
+    background: white;
+    color: black;
+    margin: 20px 0px;
+    border: 2px solid #ff784f;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px #c8c8c8;
+}
+
+.platform-margin {
+    margin-top: 1em;
+}
+
+.goal-text {
+    padding: 2em;
+    border-radius: 10px;
+    font-size: 1.5em;
+    color: #ff784f;
+}
+
+.margin-btttom{
+    margin-bottom: 10px;
+}
